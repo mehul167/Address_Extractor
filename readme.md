@@ -81,7 +81,7 @@ Each address entry contains:
     "address": "string",
     "tag": "sanctioned",
     "source": "USAO Official",
-    "timestamp": "integer",
+    "timestamp": integer,
     "confidence": "100",
     "info": ["string"],
     "mal": true
